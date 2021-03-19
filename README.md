@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/EmilyQElizabeth/p2EmilyQuintanillaEricSantana/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+[Project Page](https://emilyqelizabeth.github.io/p2EmilyQuintanillaEricSantana/)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
