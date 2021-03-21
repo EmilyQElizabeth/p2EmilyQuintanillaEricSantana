@@ -1,8 +1,5 @@
-Project Page: Emily Quintanilla & Eric Santana 
-
+CS 4331 - Human Computer Interaction
 [Project Page](https://emilyqelizabeth.github.io/p2EmilyQuintanillaEricSantana/)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
