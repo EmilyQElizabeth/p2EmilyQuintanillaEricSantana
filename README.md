@@ -1,4 +1,5 @@
-CS 4331 - Human Computer Interaction
+#CS 4331 - Human Computer Interaction
+
 [Project Page](https://emilyqelizabeth.github.io/p2EmilyQuintanillaEricSantana/)
 
 ### Markdown
