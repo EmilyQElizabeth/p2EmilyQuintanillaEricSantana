@@ -1,5 +1,7 @@
 #CS 4331 - Human Computer Interaction
 
+Team: Emily Quintanilla & Eric Santana
+
 [Project Page](https://emilyqelizabeth.github.io/p2EmilyQuintanillaEricSantana/)
 
 ### Markdown
