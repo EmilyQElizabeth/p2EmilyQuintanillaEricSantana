@@ -109,4 +109,12 @@ Team: Emily Quintanilla & Eric Santana
 ## Software Used
   - Figma to create and animate High Fidelity Prototype
 
-## 
+## Final Interface of Dashboard
+
+## Final Interface of LCD Display
+
+## Gif of Final Interface
+
+## Group Member Contribution
+  - Group members contributed equally to the project
+  - We worked on all parts together, but mostly worked on one computer
