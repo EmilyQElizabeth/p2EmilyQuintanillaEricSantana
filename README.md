@@ -18,3 +18,6 @@ Team: Emily Quintanilla & Eric Santana
 
 ## Gif of Final Interface
   <img src="./assets/p2EQESfinal.gif" width="50%">
+
+## Youtube Demo
+  [Demo Link](https://www.youtube.com/embed/zydWPu5EHhQ)
