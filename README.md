@@ -10,9 +10,6 @@ Team: Emily Quintanilla & Eric Santana
 ## Dashboard and LCD Display Design
   <img src="./assets/lowfiSketch.PNG" width="50%">
 
-## Software Used
-  - Figma to create and animate High Fidelity Prototype
-
 ## Final Interface of Dashboard
   <img src="./assets/dashboard.PNG" width="50%">
 
