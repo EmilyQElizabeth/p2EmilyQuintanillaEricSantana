@@ -110,10 +110,13 @@ Team: Emily Quintanilla & Eric Santana
   - Figma to create and animate High Fidelity Prototype
 
 ## Final Interface of Dashboard
+  <img src="./assets/dashboard.PNG" width="70%">
 
 ## Final Interface of LCD Display
+  <img src="./assets/lcddisplay.PNG" width="70%">
 
 ## Gif of Final Interface
+  <img src="./assets/p2EQESfinal.gif" width="70%">
 
 ## Group Member Contribution
   - Group members contributed equally to the project
